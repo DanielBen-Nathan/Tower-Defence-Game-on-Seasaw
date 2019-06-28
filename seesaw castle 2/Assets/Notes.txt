@@ -1,0 +1,95 @@
+img:
+	32x32 -work small
+	scale to 250x250
+
+
+	colours - hold ctrl to find in gimp:
+		castle grey - 8D988C
+		wood - #825201
+		dirt - 573B0C
+		orc green -70a94a
+		orc amour -80837f
+		orc leather - 9d7a36
+		orc log 704c18
+		orc-weapon b8b8b8
+		arrow feather - d73a3a
+
+to do:
+	high pri:
+		orc archer get stuck
+		death hitboxes
+		work on enemy spawner looks ok for now
+		enemies from cloud/sky spawners
+		placemarker for tower placement with cost
+		stronger versions of enemies
+		mobile tower snap in place
+		balance
+		imporve phone controls
+		sound 
+		help page
+		aditional content:
+			flying enemy
+			pole
+			bridge
+			battling ram
+			boss/huge enemy
+			cannon enemy
+			bounsy enemy
+			tower throwing enemy
+		
+
+	new enemies?:
+	
+		flying enemy
+		pushing enemy
+		tower grabbing enemy
+		boss
+		shield enemy
+		AOE enemy
+		slime enemy
+		bosses
+		high dmg melee
+		high health melee
+		huge enemy
+		cannon enemy
+	new towers?:
+		cannon
+		fire
+		anvil
+		bridge
+	tower upgrades?
+
+	better enemy spawner
+	main menu:
+		settings:
+			controls
+			graphics
+			audio
+		save
+		load
+		help
+	mobile port -ads paid option to remove
+	release on pc - paid
+	archer attack animation
+
+	height limit?
+	sound effects
+	
+	fix up code
+	balance
+	paralax background
+	tower health regen?
+	merg towers into single one?
+	remove door when not on ground
+	on enemy enter gem falling anvils, meteror,wind,tornado
+
+possibly change:
+	damage, range
+	random arrows?
+
+fixes:
+	enemy raycast tower above
+	fallen over enemies
+	
+
+
